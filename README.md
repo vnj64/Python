@@ -1,4 +1,5 @@
 # Python
 Lesson for Developing
 
-Hello, World!
+Как вернуться к прошлой версии (./reset_help.md)
+
